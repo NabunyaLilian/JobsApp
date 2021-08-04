@@ -2,6 +2,9 @@ plugins {
     id 'com.android.application'
     id 'kotlin-android'
     id 'kotlin-android-extensions'
+    id 'com.google.gms.google-services'
+    id 'com.google.firebase.crashlytics'
+    id 'com.google.firebase.firebase-perf'
 }
 
 android {
@@ -34,6 +37,13 @@ android {
 }
 
 dependencies {
+    implementation 'com.google.firebase:firebase-analytics:19.0.0'
+    implementation 'com.google.firebase:firebase-crashlytics:18.2.0'
+    implementation 'com.google.firebase:firebase-perf:20.0.2'
+    implementation 'com.google.firebase:firebase-analytics-ktx:19.0.0'
+    implementation 'com.google.firebase:firebase-crashlytics-ktx:18.2.0'
+    implementation 'com.google.firebase:firebase-perf-ktx:20.0.2'
+    implementation 'com.google.firebase:firebase-database-ktx:20.0.1'
     def nav_version = "2.3.5"
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"

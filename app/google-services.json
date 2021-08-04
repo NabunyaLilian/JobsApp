@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064063996961",
+    "project_id": "jobsapp-a8fb9",
+    "storage_bucket": "jobsapp-a8fb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064063996961:android:255a3a35c8f36b52daff60",
+        "android_client_info": {
+          "package_name": "com.example.jobsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064063996961-fakllcae7aqnq5fie1g9lhu896s841ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjHvRHa0-r84pRmNdRIunxF7iOEUL_R6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064063996961-fakllcae7aqnq5fie1g9lhu896s841ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
