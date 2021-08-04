@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JobsApp</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="you_don_t_have_an_account_sign_up">You don\'t have an account sign up</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="login_prompt">Sign in to Jobs App to stand your self a chance</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="sign_in_if_you_have_account">Sign in if you have account?</string>
+</resources>
